@@ -1,0 +1,7 @@
+﻿BackgroundService
+
+MediatR
+
+FeatureManagement
+
+MiniProfiler
